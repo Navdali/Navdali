@@ -3,14 +3,21 @@
 <!--
 **Navdali/Navdali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Introduction**
+Cloud & Data Enthusiast | AWS Learner | Aspiring Cloud Engineer
+
+**Skills & Tools**
+AWS, SQL, Excel, Power BI, Python, Git
+
+**Projects**
+AWS Chatbot (Lex) | Cloud Monitoring | Data Analytics Projects
+
+**Contact**
+LinkedIn | GitHub | Medium | Facebook
+
+**Fun / Optional**
+Always learning ☁️ | Tech + Growth 🚀
+
+If you want it **more professional**, **more fun**, or **in Urdu**, tell me 👍
